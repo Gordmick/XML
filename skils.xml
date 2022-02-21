@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
  <root>
-  <SkillsToBeLearnedOnTheCourse>GIT, SDLC, STLC, SQL, Charles, Postman, JS, Linux, Jmeter, ADB</SkillsToBeLearnedOnTheCourse>
+  <Skills1>GIT</Skills1>
+  <Skills2>SDLC</Skills2>
+  <Skills3>STLC</Skills1>
+  <Skills4>SQL</Skills1>
+  <Skills5>Charles</Skills1>
+  <Skills6>Postman</Skills1>
+  <Skills7>JS</Skills1>
+  <Skills8>Linux</Skills1>
+  <Skills9>Jmeter</Skills1>
+  <Skills10>ADB</Skills>
  </root>
 
