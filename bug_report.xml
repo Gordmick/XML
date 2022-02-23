@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 	<bug>
 		<summary>Login page The button`register` not firing after clicking on the page</summary>
-		<project>Shop Zara</project>
+		<project>Shop H&M</project>
 		<component>Registration form</component>
 		<version>5,64</version>
 		<severity>Critical</severity>
