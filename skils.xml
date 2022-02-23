@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
- <root>
+ <skills>
   <Skills1>GIT</Skills1>
   <Skills2>SDLC</Skills2>
   <Skills3>STLC</Skills3>
@@ -10,5 +10,5 @@
   <Skills8>Linux</Skills8>
   <Skills9>Jmeter</Skills9>
   <Skills10>ADB</Skills10>
- </root>
+ </skills>
 
