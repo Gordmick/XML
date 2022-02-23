@@ -7,7 +7,7 @@
 		<severity>Critical</severity>
 		<priority>High</priority>
 		<status>Open</status>
-		<author>Tatiana Gordievskaia</author>
+		<author>Mikhail Gordievskiy</author>
 		<steps_for_reproduce>Open Login page, clicking the buttom `register`</steps_for_reproduce>
 		<result>The page does not go to the registration page</result>
 		<expected_result>The page goes to the registration page</expected_result>
