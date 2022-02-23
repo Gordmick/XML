@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
  <root>
-  <favoriteCinema>Interstellar</favoriteCinema>
-  <favoriteSeries>Game of Thrones</favoriteSeries>
-  <favoriteFood>barbecue</favoriteFood>
-  <favoriteSeason>summer</favoriteSeason>
-  <countryYouWouldLikeToVisit>Sweden</countryYouWouldLikeToVisit>
+  <favorite_cinema>Interstellar</favorite_cinema>
+  <favorite_series>Game of Thrones</favorite_series>
+  <favorite_food>barbecue</favorite_food>
+  <favorite_season>summer</favorite_season>
+  <country_you_would_like_to_visit>Sweden</country_you_would_like_to_visit>
  </root>
