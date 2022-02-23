@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
  <root>
-  <fullName>Gordievskiy Mikhail Viktorovich</fullName>
+  <full_name>Gordievskiy Mikhail Viktorovich</full_name>
   <age>years="36"</age>
   <pets>five sea fish</pets>
-  <futureDesiredSalary>dollars="2000"</futureDesiredSalary>
+  <future_desired_salary>dollars="2000"</future_desired_salary>
  </root>
 
