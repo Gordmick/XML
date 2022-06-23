@@ -1,2 +1,2 @@
 # XML
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)]
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
